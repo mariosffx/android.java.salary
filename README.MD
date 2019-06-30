@@ -1,6 +1,7 @@
 # Greek Employee Salary
 This program calculates the salary of an Greek employee.
-This is amateur work. I made this to learn a little bit about Android Studio & Java.
+This is amateur work. 
+I made this to learn a little bit about Android Studio & Java.
 Not recommended for profesional use.
 
 ![alt text](screenshot.png "Screenshot του Προγράμματος")
